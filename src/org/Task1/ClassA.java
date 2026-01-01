@@ -17,6 +17,8 @@ public class ClassA {
 		
 		System.out.println(m);
 		
+		String name = "Irfan";
+		System.out.println(name);
 		
 		
 		
